@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><img src="images/giphy.gif"height="300" width="300"></p>
+<p align="center"><img src="images/giphy2.gif"height="200" width="300"></p>
 <h5 align="center">  🏢	 Computer Engineering Student. 📚 </h5>
 <h5 align="center"> 💻  Jr. Full-Stack Developer ⌨️ </h5>
 
