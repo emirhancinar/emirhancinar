@@ -30,15 +30,6 @@
 	<a href = "https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="margin-left:10px" >
 		<img align="center" src="/images/css.png" alt="Css" height="40" width="40" />
 	</a>
-	<a href = "https://tailwindcss.com/" target="_blank" style="margin-left:10px">
-		<img align="center" src="/images/tailwind.svg" alt="Tailwind" height="40" width="40" />
-	</a>
-	<a href = "https://www.javascript.com/" target="_blank" style="margin-left:10px">
-		<img align="center" src="/images/js.png" alt="Javascript" height="40" width="40" />
-	</a>
-	<a href = "https://reactjs.org/" target="_blank" style="margin-left:10px">
-		<img align="center" src="/images/react.png" alt="React" height="40" width="40" />
-	</a>
 	<a href = "https://dotnet.microsoft.com/en-us/" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/netcore.png" alt="Asp.Net Core" height="40" width="40" />
 	</a>
@@ -49,14 +40,8 @@
 	<a href = "https://code.visualstudio.com/" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/vscode.png" alt="VsCode" height="40" width="40" />
 	</a>
-	<a href = "https://www.php.net/" target="_blank" style="margin-left:10px">
-		<img align="center" src="/images/php.png" alt="Php" height="40" width="40" />
-	</a>
 	<a href = "https://www.java.com/tr/" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/java.png" alt="Spring" height="40" width="40" />
-	</a>
-	<a href = "https://spring.io/" target="_blank" style="margin-left:10px">
-		<img align="center" src="/images/spring.svg" alt="Spring" height="40" width="40" />
 	</a>
 	<a href = "https://www.mysql.com/" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/mysql.png" alt="MySQL" height="40" width="40" />
